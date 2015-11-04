@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="8195" systemVersion="15A279b" minimumToolsVersion="Xcode 7.0">
+    <entity name="Reviewer" representedClassName="Reviewer" syncable="YES">
+        <attribute name="bio" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reviewedGames" optional="YES" toMany="YES" deletionRule="Nullify" destinationEntity="VideoGame" inverseName="reviewer" inverseEntity="VideoGame" syncable="YES"/>
+    </entity>
+    <entity name="VideoGame" representedClassName="VideoGame" syncable="YES">
+        <attribute name="gerne" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="name" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="rating" optional="YES" attributeType="Integer 16" defaultValueString="0" syncable="YES"/>
+        <attribute name="sysnopsis" optional="YES" attributeType="String" syncable="YES"/>
+        <relationship name="reviewer" optional="YES" maxCount="1" deletionRule="Nullify" destinationEntity="Reviewer" inverseName="reviewedGames" inverseEntity="Reviewer" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="Reviewer" positionX="-63" positionY="-18" width="128" height="90"/>
+        <element name="VideoGame" positionX="171" positionY="-18" width="128" height="120"/>
+    </elements>
+</model>

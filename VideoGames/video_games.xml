@@ -1,0 +1,130 @@
+<?xml version="1.0"?>
+<rwt>
+    <reviewers>
+        <reviewer>
+            <name>Ray Wenderlich</name>
+            <bio><![CDATA[Ray is an indie software developer currently focusing on iPhone and iPad development, and the administrator of this site. He’s the founder of a small iPhone development studio called Razeware, and is passionate both about making apps and teaching others the techniques to make them.]]>
+            </bio>
+            <id>0</id>
+        </reviewer>
+        <reviewer>
+                <name>Cosmin Pupaza</name>
+                <bio><![CDATA[Cosmin is an iOS developer currently working at Style Jukebox, a project which combines his two greatest passions: computers and music. He is also available for contract work.]]>
+                </bio>
+                <id>1</id>
+        </reviewer>
+        <reviewer>
+                <name>Brian Moakley</name>
+                <bio><![CDATA[Brian is not only an iOS developer and fiction writer, he also holds the honor being Razeware‘s first fulltime employee. Brian joins Razeware with experience from companies such as ESPN’s online fantasy team and Disney’s Internet Group. When not writing or coding, Brian enjoys story driven first person shooters, lengthy Minecraft sessions, and any pickup game of Carcassonne.]]>
+                </bio>
+                <id>2</id>
+        </reviewer>
+    </reviewers>
+    <video_games>
+        <video_game>
+            <name>Minecraft</name>
+            <genre>Worldbuilding FPS</genre>
+            <rating>5</rating>
+            <reviewId>0</reviewId>
+            <synopsis>Build your own voxel based world while surviving against various types of baddies. Beware of creepers. </synopsis>
+        </video_game>
+        <video_game>
+            <name>Day Z</name>
+            <genre>Survival FPS</genre>
+            <rating>4</rating>
+            <reviewId>1</reviewId>
+            <synopsis>Try to survive in a post apocalytic wasteland where the zombies are the least of your problems. </synopsis>
+        </video_game>
+        <video_game>
+            <name>Infamous: Second Son</name>
+            <genre>3rd Person Super Hero</genre>
+            <rating>3</rating>
+            <reviewId>2</reviewId>
+            <synopsis>Play as a superhero where morality is as much of a gameplay element as stopping the bad guys. Fun but has a "been there, done that" feel to it."</synopsis>
+        </video_game>
+        <video_game>
+            <name>Dance Central</name>
+            <genre>Kinect Wibble Wobble</genre>
+            <rating>2</rating>
+            <reviewId>0</reviewId>
+            <synopsis>Dance you like you have a spider crawling down your shirt. Can be fun until your knee blows out.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Dungeon Keeper iOS</name>
+            <genre>DLC Collecting</genre>
+            <rating>1</rating>
+            <reviewId>1</reviewId>
+            <synopsis>A classic remake that replaces clever gameplay with in app purchases.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Bioshock Infinite</name>
+            <genre>Narrative FPS</genre>
+            <rating>5</rating>
+            <reviewId>2</reviewId>
+            <synopsis>While the shooting is bland, the storytelling is top-notch.</synopsis>
+        </video_game>
+        <video_game>
+            <name>The Cave</name>
+            <genre>Platform Adventure Game</genre>
+            <rating>4</rating>
+            <reviewId>0</reviewId>
+            <synopsis>A funny creative adventure game that takes place in a cave.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Dead Rising</name>
+            <genre>3rd Person Action Game</genre>
+            <rating>3</rating>
+            <reviewId>1</reviewId>
+            <synopsis>A zombie game that takes place in a mall. Somewhat frustrating but fun.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Battlefield 4</name>
+            <genre>FPS</genre>
+            <rating>2</rating>
+            <reviewId>2</reviewId>
+            <synopsis>Could have been great, but slogged with bugs.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Pitfall for iOS</name>
+            <genre>DLC Collecting</genre>
+            <rating>1</rating>
+            <reviewId>0</reviewId>
+           <synopsis>Really? I have to pay for continues?</synopsis>
+        </video_game>
+        <video_game>
+            <name>Half Life 1</name>
+            <genre>Narrative FPS</genre>
+            <rating>5</rating>
+            <reviewId>1</reviewId>
+            <synopsis>Run and gun as the rather silent Gordon Freeman.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Ulitma 5</name>
+            <genre>Role Playing Game</genre>
+            <rating>4</rating>
+            <reviewId>2</reviewId>
+            <synopsis>Restore the rightful ruler to a kingdom in chaos.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Portal 2</name>
+            <genre>1st Person Puzzler</genre>
+            <rating>3</rating>
+            <reviewId>0</reviewId>
+            <synopsis>Return to Aperture Labs for more Portal jumping adventures.</synopsis>
+        </video_game>
+        <video_game>
+            <name>Fable 2</name>
+            <genre>Third person action RPG</genre>
+            <rating>2</rating>
+            <reviewId>1</reviewId>
+            <synopsis>Explore a fantsy world with a dog..</synopsis>
+        </video_game>
+        <video_game>
+            <name>Air Control</name>
+            <genre>Ironically Bad</genre>
+            <rating>1</rating>
+            <reviewId>2</reviewId>
+            <synopsis>Really? You expect me to pay for this?</synopsis>
+        </video_game>
+    </video_games>
+</rwt>
